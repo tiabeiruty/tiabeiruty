@@ -8,5 +8,3 @@
   <a href="https://docs.pmnd.rs/zustand/getting-started/introduction" target="_blank" rel="noreferrer"><img width= "60" alt="logo-colored@2x" src="https://github.com/tiabeiruty/tiabeiruty/assets/124623648/3dea4476-a190-47fa-b516-c51a0eb2aeef"></a>
 </p>
 
-<h3 align="left">My top languages </h3>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiabeiruty&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
