@@ -12,5 +12,7 @@ colored@2x" src="https://github.com/tiabeiruty/tiabeiruty/assets/124623648/3dea4
   <a href="https://git-scm.com/doc" target="_blank" rel="noreferrer"><img width= "40" alt="logo-colored@2x"
 src="https://github.com/tiabeiruty/tiabeiruty/assets/124623648/28152053-4788-40bc-be63-490004342ccd"></a>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img width= "40" alt="logo-colored@2x" src="https://github.com/tiabeiruty/tiabeiruty/assets/124623648/2151e2b4-e110-47e7-901a-3d27eb310d6d"></a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img width= "30" alt="logo-colored@2x" src="https://github.com/tiabeiruty/tiabeiruty/assets/124623648/5042b026-a7d3-445e-8da2-298d9fbb8ba5"></a>
+    <a href="https://mui.com/" target="_blank" rel="noreferrer"><img width= "50" alt="logo-colored@2x" src="https://github.com/tiabeiruty/tiabeiruty/assets/124623648/36fa8613-1ea4-4139-a788-0044394bd2b2"></a>
+  <a href="https://www.chartjs.org/" target="_blank" rel="noreferrer"><img width= "50" alt="logo-colored@2x" src="https://github.com/tiabeiruty/tiabeiruty/assets/124623648/d068fc19-2351-4ff5-9b54-870bbee55a5a"></a>
 </p>
-
