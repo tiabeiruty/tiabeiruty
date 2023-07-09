@@ -15,4 +15,6 @@ src="https://github.com/tiabeiruty/tiabeiruty/assets/124623648/28152053-4788-40b
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img width= "30" alt="logo-colored@2x" src="https://github.com/tiabeiruty/tiabeiruty/assets/124623648/5042b026-a7d3-445e-8da2-298d9fbb8ba5"></a>
     <a href="https://mui.com/" target="_blank" rel="noreferrer"><img width= "50" alt="logo-colored@2x" src="https://github.com/tiabeiruty/tiabeiruty/assets/124623648/36fa8613-1ea4-4139-a788-0044394bd2b2"></a>
   <a href="https://www.chartjs.org/" target="_blank" rel="noreferrer"><img width= "50" alt="logo-colored@2x" src="https://github.com/tiabeiruty/tiabeiruty/assets/124623648/d068fc19-2351-4ff5-9b54-870bbee55a5a"></a>
+  <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"><img width= "60" alt="logo-colored@2x" src="https://github.com/tiabeiruty/tiabeiruty/assets/124623648/520456a8-949f-431d-bdc7-2d5b315b4a64"></a>
 </p>
+
