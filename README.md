@@ -16,5 +16,8 @@ src="https://github.com/tiabeiruty/tiabeiruty/assets/124623648/28152053-4788-40b
     <a href="https://mui.com/" target="_blank" rel="noreferrer"><img width= "50" alt="logo-colored@2x" src="https://github.com/tiabeiruty/tiabeiruty/assets/124623648/36fa8613-1ea4-4139-a788-0044394bd2b2"></a>
   <a href="https://www.chartjs.org/" target="_blank" rel="noreferrer"><img width= "50" alt="logo-colored@2x" src="https://github.com/tiabeiruty/tiabeiruty/assets/124623648/d068fc19-2351-4ff5-9b54-870bbee55a5a"></a>
   <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"><img width= "60" alt="logo-colored@2x" src="https://github.com/tiabeiruty/tiabeiruty/assets/124623648/520456a8-949f-431d-bdc7-2d5b315b4a64"></a>
+  <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img width= "45" alt="logo-colored@2x" src="https://github.com/tiabeiruty/tiabeiruty/assets/124623648/1cf870df-c125-4eaa-9bc3-88392b1cc13a"></a>
 </p>
+
+
 
